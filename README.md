@@ -15,7 +15,7 @@ A Lua module for Slack's Web API
 
  * `src/` contains the source code for the module generator
  * `examples/` shows example usage of the module
- * slack
+ * `slackweb.lua` the Lua module for Slack's Web API
 
  ## Building the Module
 
