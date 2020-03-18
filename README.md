@@ -1,6 +1,6 @@
 # Lua-SlackWeb
 
-A Lua module for Slack's Web API
+An automatically generated Lua module for Slack's Web API
 
 ## In this repository
 
@@ -51,6 +51,11 @@ sw.chat.postMessage{
 #### Arguments
 
 All `lua-slackweb` functions use the [named arguments](https://www.lua.org/pil/5.3.html) technique described in the Lua Manual. That is, each function expects a single table, in which method parameters are specified by name.
+
+`lua-slackweb` functions will check that required parameters are present,
+but no attempt has yet to be made to verify/document optional parameters.
+
+Refer to the met
 
 #### Return
 
