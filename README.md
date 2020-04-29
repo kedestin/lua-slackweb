@@ -55,7 +55,7 @@ All `lua-slackweb` functions use the [named arguments](https://www.lua.org/pil/5
 `lua-slackweb` functions will check that required parameters are present,
 but no attempt has yet to be made to verify/document optional parameters.
 
-Refer to the met
+Refer to the API [method](https://api.slack.com/methods) documentation for complete documentation.
 
 #### Return
 
